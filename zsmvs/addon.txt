@@ -1,0 +1,12 @@
+"AddonInfo"
+ {
+ 	"name"		"ZSVS"
+ 	"version"	"1.4.1"
+ 	"up_date"	"08/11/2012"
+
+ 	"author_name"	"ptown2 (SimpleVote by: JohnnyThunders)"
+ 	"author_email"	"xptown2x@gmail.com"
+ 	"author_url"	""
+
+ 	"info"		"A Zombie Survival Vote System made for ZS Hosting Owners. ONLY!"
+ }
